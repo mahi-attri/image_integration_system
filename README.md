@@ -6,7 +6,7 @@
 ## 📁 Project Structure
 
 ```
-├── app.py                              # Flask backend logic
+├── app.py                              # Flask 
 ├── templates/                          # HTML frontend templates
 │   ├── index.html
 │   ├── result.html
