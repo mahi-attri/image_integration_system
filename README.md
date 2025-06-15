@@ -45,7 +45,7 @@
 
 ## 🔧 Features
 
-- Drag-and-drop upload interface for person and background images.
+- Drag-and-drop upload interface: person and background images.
 - Automatic background removal using OpenCV's GrabCut.
 - Soft mask blending and resizing of person to fit scene context.
 - Shadow generation beneath the subject for realism.
