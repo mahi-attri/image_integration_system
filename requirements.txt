@@ -1,0 +1,6 @@
+Flask>=2.0
+opencv-python>=4.5
+numpy>=1.21
+Pillow>=8.0
+python-dotenv>=1.0
+gunicorn>=20.1
