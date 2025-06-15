@@ -1,7 +1,7 @@
 
 # AI Scene Integration Studio
 
-**AI Scene Integration Studio** is a web application that allows users to seamlessly insert a person into a background scene using computer vision techniques for foreground extraction, lighting-aware positioning, shadow simulation, and alpha blending. The system produces a photorealistic final image with intuitive drag-and-drop interaction.
+**AI Scene Integration Studio** is a web application that allows users to seamlessly insert a person into a background scene using computer vision techniques for foreground extraction, lighting-aware positioning, shadow simulation and alpha blending. The system produces a photorealistic final image with intuitive drag-and-drop interaction.
 
 ## 📁 Project Structure
 
